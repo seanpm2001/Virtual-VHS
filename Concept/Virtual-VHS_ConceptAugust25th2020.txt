@@ -1,0 +1,13 @@
+Virtual VHS file
+
+HEADER
+# Notice: changing header settings from the default VHS settings will remove the realistic VCR experience. You can still modify these settings, but it is recommended to use another file format for high quality video (such as MP4, WEBM, WMV, MKV, etc.)
+dimensions=1280×720;
+framerate=30;
+splicable=true;
+tapeable=true;
+capacity=10800000; # Time in milliseconds, for the full experience, choose a value of 1800000 (30 min) 3600000 (60 min) another multiple of 30 min ÷ milliseconds, or 10800000 (180 min)
+VCR_History {
+VCR_History-toggle=off;
+VCR1 = https://
+VCR2 = https://
